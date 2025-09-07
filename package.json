@@ -12,6 +12,7 @@
     "node": ">=18"
   },
   "dependencies": {
+    "@mozilla/readability": "^0.6.0",
     "axios": "^1.7.2",
     "cheerio": "^1.1.2",
     "cors": "^2.8.5",
